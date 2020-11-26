@@ -2,6 +2,8 @@
 
 Implementation on Matlab
 
+File to run: EconomicDispatch
+
 This is script for economic dispatching of three power plants only.
 
 How it works?
